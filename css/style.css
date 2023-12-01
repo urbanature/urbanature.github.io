@@ -118,9 +118,11 @@ body {
     color: #E0E789;
 }
 
+/*
 .imgdecouvrir {
     width:200px;
 }
+*/
 
 .textedecouvrir {
     color :aliceblue;
@@ -343,3 +345,7 @@ h2 {
   }
 }
 
+
+.container a{
+color: #E0E789;
+}
